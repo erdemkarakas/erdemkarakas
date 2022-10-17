@@ -1,5 +1,6 @@
 <h1 align="center"> Hi, I'm Erdem Karakaş 👋</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+
 <img align="center" src="https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif" width="230">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemkarakas" alt="erdemkarakas" /></a> </p>
@@ -46,8 +47,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
-   <a href="https:/getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" />
+   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="getbootstrap" width="40" height="40" />
   </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />

@@ -1,7 +1,22 @@
 <h1 align="center"> Hi, I'm Erdem Karakaş 👋</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<img align="right" src="https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif" width="230">
+<br/><br/>
+<br/><br/>
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif?cid=ecf05e475uartle9uc7bg4xiit947ocb3zj05tdp9zcva0nu&rid=giphy.gif&ct=g">
+
+
+
+- 🌱 I’m currently learning **JavaScript, TypeScript and React.JS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/erdemkarakas](https://github.com/erdemkarakas)
+
+- 💬 Ask me about **Web Development, React.JS**
+
+- 📫 How to reach me **erdemkarakas26@gmail.com**
+
+- 📄 Know about my experiences (Resume) <b>https://bit.ly/3rXe0y5</b>
 
 
 <br/><br/>
@@ -24,15 +39,7 @@
 
 <br/><br/>
 
-- 🌱 I’m currently learning **React.Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/erdemkarakas](https://github.com/erdemkarakas)
-
-- 💬 Ask me about **Web Development, React.JS**
-
-- 📫 How to reach me **erdemkarakas26@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/erdemkarakas/](https://www.linkedin.com/in/erdemkarakas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,9 +2,19 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <img align="right" src="https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif" width="230">
+
+
+<br/><br/>
+<br/><br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemkarakas&label=Profile%20views&color=0e75b6&style=flat" alt="erdemkarakas" /> </p>
 
+
+
 <p align="left"> <a href="https://twitter.com/erdemmkarakas" target="blank"><img src="https://img.shields.io/twitter/follow/erdemmkarakas?logo=twitter&style=for-the-badge" alt="erdemkarakas" /></a> </p>
+
+<br/><br/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemkarakas" alt="erdemkarakas" /></a> </p>
 

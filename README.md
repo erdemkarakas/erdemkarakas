@@ -1,7 +1,6 @@
-<h1 align="center"> Hi, I'm Erdem Karakaş 👨‍💻 </h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<br/><br/>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&vCenter=true&width=435&lines=+Hi%2C+I'am+Erdem+KARAKA%C5%9E.; Guess+I'm+a+web+developer." alt="Typing SVG" /></a>
 <br/><br/>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif?cid=ecf05e475uartle9uc7bg4xiit947ocb3zj05tdp9zcva0nu&rid=giphy.gif&ct=g">

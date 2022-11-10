@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript and React.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/erdemkarakas](https://github.com/erdemkarakas)
-
 - 💬 Ask me about **Web Development, React.JS**
 
 - 📫 How to reach me **erdemkarakas26@gmail.com**

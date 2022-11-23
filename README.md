@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **erdemkarakas26@gmail.com**
 
-- 📄 Know about my experiences (Resume) <b>https://bit.ly/3rXe0y5</b>
+- 📄 Know about my experiences (Resume) <b>bit.ly/3hW4auo</b>
 
 
 <br/><br/>

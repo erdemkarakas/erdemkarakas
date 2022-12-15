@@ -6,12 +6,6 @@
 <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif?cid=ecf05e475uartle9uc7bg4xiit947ocb3zj05tdp9zcva0nu&rid=giphy.gif&ct=g">
 
 
-
-
-
-<br/><br/>
-
-
 <br/><br/>
 
 

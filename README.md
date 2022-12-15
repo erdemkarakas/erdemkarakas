@@ -3,32 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&vCenter=true&width=435&lines=+Hi%2C+I'am+Erdem+KARAKA%C5%9E.; Guess+I'm+a+web+developer." alt="Typing SVG" /></a>
 <br/><br/>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif?cid=ecf05e475uartle9uc7bg4xiit947ocb3zj05tdp9zcva0nu&rid=giphy.gif&ct=g">
-
-
-
-- 🌱 I’m currently learning **JavaScript, TypeScript and React.JS**
-
-- 💬 Ask me about **Web Development, React.JS**
-
-- 📫 How to reach me **erdemkarakas26@gmail.com**
-
-- 📄 Know about my experiences (Resume) <b>[bit.ly/3hW4auo](http://bit.ly/3hW4auo)</b>
-
-
-<br/><br/>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemkarakas&label=Profile%20views&color=0e75b6&style=flat" alt="erdemkarakas" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/erdemmkarakas" target="blank"><img src="https://img.shields.io/twitter/follow/erdemmkarakas?logo=twitter&style=for-the-badge" alt="erdemkarakas" /></a> </p>
-
-<br/><br/>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemkarakas" alt="erdemkarakas" /></a> </p>
+<img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif?cid=ecf05e475uartle9uc7bg4xiit947ocb3zj05tdp9zcva0nu&rid=giphy.gif&ct=g">
 
 
 
@@ -37,15 +12,26 @@
 <br/><br/>
 
 
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/erdemmkarakas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdemkarakas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/erdemkarakas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdemkarakas" height="30" width="40" /></a>
-<a href="https://instagram.com/erdemkarakas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erdemkarakas" height="30" width="40" /></a>
-<a href="https://medium.com/@erdemkarakas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erdemkarakas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCTIDKKfrQ0_RJZRHg_c66Gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCTIDKKfrQ0_RJZRHg_c66Gg" height="30" width="40" /></a>
-</p>
+
+  <p align="center">
+  <img height="170em" width:"100em" src="https://github-readme-stats.vercel.app/api?username=erdemkarakas&show_icons=true&hide_border=true&theme=algolia&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkarakas&theme=algolia&hide_border=true&layout=compact"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemkarakas&include_all_commits=true&hide_border=true&theme=algolia"/>
+  </p>
+
+
+
+
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/erdemkarakas/" target="_blank" rel="nofollow"><img alt="Erdem's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:erdemkarakas26@gmail.com" target="_blank" rel="nofollow"><img alt="Atakan's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -98,5 +84,3 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemkarakas&show_icons=true&locale=en&layout=compact" alt="erdemkarakas" /></p>

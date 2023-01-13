@@ -9,16 +9,6 @@
 <br/><br/>
 
 
-  <p align="center">
-  <img height="170em" width:"100em" src="https://github-readme-stats.vercel.app/api?username=erdemkarakas&show_icons=true&hide_border=true&theme=algolia&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkarakas&theme=algolia&hide_border=true&layout=compact"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemkarakas&include_all_commits=true&hide_border=true&theme=algolia"/>
-  </p>
-
-
-
-
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/erdemkarakas/" target="_blank" rel="nofollow"><img alt="Erdem's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
